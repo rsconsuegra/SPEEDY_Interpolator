@@ -13,16 +13,18 @@ Here lies an interpolator to SPEEDY grided format, particullary, comming from th
 
 The folder Structure must be:
 
+```
 SPEEDY-Interpoler/
 ├── .ipynb_checkpoints/
 │   └── Untitled-checkpoint.ipynb
 ├── Data/
 │   ├── NOAA/
 │   │   ├── Atmospherical_Conditions/
-│   │   │   └── **NOAA NETCDF Files of Atmospherical Conditions**
+│   │   │   └── NOAA NETCDF Files of Atmospherical Conditions
 │   │   └── Pressure_Conditions/
-│   │       └── **NOAA NETCDF Files relative of Pressure on Surface information**
+│   │       └── NOAA NETCDF Files relative of Pressure on Surface information
 │   └── SPEEDY/
-│       └── **SPEEDY model .grd Files**
+│       └── SPEEDY model .grd Files
 └──Notebooks/
-    └── **Required Jupyter Notebooks to perform interpolation and error estimation**
+    └── Required Jupyter Notebooks to perform interpolation and error estimation
+```
