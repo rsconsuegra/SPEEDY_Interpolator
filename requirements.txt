@@ -1,0 +1,10 @@
+numpy
+pandas
+netCDF4
+scipy
+struct
+pathlib
+xarray
+matplotlib
+seaborn
+sklearn
